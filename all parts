@@ -1,0 +1,122 @@
+Disclaimer: I have completely forgot about the repo part of the task. I only realize after I needed to update and link task on repo as well. My apologies and I hope for your understanding.
+
+1) is to discover security concepts used on UWA campus. I started off wondering around the campus and came across campus security system. which includes keypads, key card access, alarm system. These systems are only available to authorized persons only. Below are some photos I have collected on the security systems. They are from RIED library, inside and outside. Inside of art building door.
+
+
+2) takes me outside of campus to seek for security used in public space. The first thing that came to my mind was traffic cameras. So, I took some pictures during a drive around the local area around Perth and places up in Butler and Wanneroo road. 
+
+We have ranging for red light cameras which can detect traffic offences and lead to fines or demerit points, to traffic monitoring cameras are used by road operators to watch traffic flow, detect crashes or breakdowns, manage lane closures, and respond faster to incidents.
+
+3) is looking at the security around my home. It blocks people other than the owner with the key to get in the house.
+
+4) discover a vulnerable website. After digging around and doing a quick search, I was able to find many test websites that are open for anyone to make a move on. one example of a popular OWASP juice shop, which consist of open web vulnerabilities for public cyber research and learning.
+
+5) cryptographic implementation used online. This is seen everywhere online with the most common being the websites we visit. most of them are using encryption protocols HTTPS (SSL/TLS) to secure communication between a web browser and the server you are connecting to. This picture was taken on the Australia Signals Directorate, where the connection uses HTTPS on the Firefox browser.
+
+6) cryptographic implementation used offline. modern devices such as iphone have offline cryptographic software to transport data. the example here is iphone's airdrop system, which runs on peer to peer encryption using Bluetooth to connect to apple wireless direct link. Airdrop works by using Bluetooth Low Energy peer to peer that allow users to share file standing next to each other. The connection is encrypted using TLS which ensures the privacy and authentication of users.
+
+7) cryptography used in modern networks. As the hardware of modern technology grows, so does the cryptography systems used. With the introduction of super computers and quantum computers, It’s possible that this could eventually break some of the asymmetric cryptography we rely on today. So, a new algorithm was developed to resist future quantum computer attacks, such as Module Lattice Based Digital Signature Algorithm (ML-DSA) and ML-KEM, which is approved by the ASD. However, it doesn’t stop the past data that has been stored to be decrypt in further years.
+
+8) cryptography used in Internet of Things devices. in this part, I have smart light installed around my home, which are all connected to my network. The link light system uses WPA2 encryption to send and receive single to control the lighting.
+
+9) privacy technique used online. My own personal computers all have VPN installed. A private network allows me to bypass internet content that are geo based and keeps my data encrypted using quantum encryption technology. It works by taking my network traffic from the ISP to the VPN severer instead, like a tunnel that blocks people from spying or attacking you. 
+
+10) privacy technique used offline involves what I believe physical privacy. Which includes door locks and blind to keep a room safe. In public, the use of a privacy screen for your devices helps to decrease the chance of someone overlooking your device. Use cash instead of bank card or online banking to avoid tracking from the bank and government.
+
+11) There are quite a few examples of access control systems used in everyday life and in workplaces. One example is the keypad reader with number keys, like the one I found in task 1 that is used in the university. This system requires a person to enter a correct PIN or access card before they are allowed through a door or gate. It is a simple but effective way to control who can enter certain areas, where many students or staff need access.
+Biometric systems are also anther control system in our devices. These systems use physical features, such as fingerprints to confirm a person’s identity. For example, many phones, laptops, and workplace devices use fingerprint scanners to allow access. Because fingerprints are unique to each person, biometric systems can provide a higher level of security than passwords alone.
+Facial recognition is another type of control used by many areas including governments to check identities of a person. During my trip back to Perth, I used the automatic system at immigration to past the gates by scanning your passport and face to provide access.
+Home Smart locks used in home and workplaces are another example that stores the data on the doors that uses passwords, key fobs, cards and biometric to provide access. Smart locks are convenient because they can allow access without a key, and they can often be controlled or monitored remotely. But it does post a threat in some cases where a smart door could be hacked by threat acters to break into someone’s home by exploiting software.
+
+
+12) I have found some offline security after doing some digging around. To start off, the use of paper shredder can be used to destroy paper document that could be sensitive, making them unable to be reconstructed for safety. It can be used in offices where sensitive personal data is handed.
+
+A strong safe used for homes and offices. It could be used to protects physical valuables, records, and sensitive items from theft or unauthorized access.
+
+Anti tamper seal that we observe on products and transport to ensure the item is not tamper with. If they are opened, the tamper seal would be damaged in a way that someone would be able to tell tampering.
+
+A special bag call faraday bag is used to blocks wireless signals from reaching devices placed inside it. It can help prevent tracking, communication, or wireless data transfer. And lastly, a portable metal detector used at events and airport to detect concealed metal objects during screening process.
+
+
+13) some common online tools people use are password managers, since it is hard for some people to keep track of all the online accounts. it helps create, store, and manage passwords securely. 
+
+Multi factor authentication or MFA are used to proof the person's identity before access is given, use in banking and other online services. VPNs, which were motioned in task 9, where a secure connection is made between the server and your devices, making it less likely to be attacked by cyber criminals. 
+
+Antivirus software helps detect malware, ransomware, and other malicious software on computers and devices, with the most common one being windows defender as it comes preinstalled on windows devices. Software such as windows defender which is built into the windows OS system.
+
+Scam protection software or app can be installed to black out incoming phishing or scam attends before it reaches the user.  I personally use this Singapore government app to block out scan calls.
+
+
+14) Microsoft Security Copilot is an AI aided security platform designed to help analysts investigate incidents and respond to threats more efficiently. 
+
+In crowd Strike, Charlotte AI is the AI security assistant that supports security operations, investigation, and response.
+
+Purple AI by Sentinel One is an AI enabled security analyst tool that helps security teams investigate and respond to suspicious activity. And more well known companies such as google and apple each have their own AI enable solutions.
+
+Google uses Gemini in its security operations tools to support security investigations, detection engineering, and workflow support and apple focuses more on privacy protection of the user which are built into the hardware of the system.
+
+
+15) . Qantas was hit by a cyber incident which effected the contact centres and involved access to a 3rd party incident, losing up to 6 million customer data.
+
+Sydney university was hacked, and 13000 personal data was stolen which included stuff, donors and students’ information. 
+
+Another case in university was found where Western Sydney university had a major breach in personal details of students and stuff alike, stolen data included personal contact details, passports, and tax file numbers.
+
+Medical technology Stryker suffered a major cyberattack, causing global disruptions to manufacture and order systems, with an Iran group Handala claiming to be responsible, which impacted thousands of windows OS systems. 
+
+The University of Mississippi Medical Centre closed clinics after a ransomware attack, where systems were compromised including the network and health records.
+
+16) There was a security breach in university just last year, which was said to expose staff and student information. Everyone on the network had to reset their passwords to avoid disruptions.
+The Legal Practice Board of Western Australia is another case where the attack group hacked their IT systems and breached identity, health, financial, and personal information. A small amount of data was published online and was found more data was accessed and the system was disrupted, blocking out services.
+
+Paterson & Dowding Family Lawyers reported a cyber incident, where unauthorized parties accessed IT systems and stole personal data. The acters took a set of data including personal information which was published on the dark web. 
+
+
+17) locks
+1. Padlock
+A portable lock usually used on gates, lockers, chains, and storage units.
+2. Deadbolt Lock
+A strong door lock that uses a solid metal bolt to resist forced entry.
+3. Mortise Lock
+A lock installed inside a pocket cut into the door itself, often used in commercial doors.
+4. Rim Lock
+A lock mounted on the surface of a door rather than recessed inside it.
+5. Night Latch
+A common surface-mounted lock used on residential entrance doors.
+6. Cam Lock
+A simple lock commonly used on cabinets, drawers, mailboxes, and lockers.
+7. Knob Lock
+A lock built into a doorknob, usually used on interior doors or light duty doors.
+8. Lever Handle Lock
+A lock integrated into a lever handle, often used in schools, offices, and public buildings.
+9. Cylinder Lock
+A cylinder-based lock commonly used in modern uPVC and timber doors.
+10. Multi-Point Lock
+A door lock that secures at several points along the frame instead of just one point.
+
+
+18) Australian academics apologised after Google Bard generated false case studies and allegations that were submitted to a parliamentary inquiry. Reports on the incident says the AI material falsely accused major consulting firms of misconduct, and the academics later issued an apology and removed the false sections of the submission.
+
+Deloitte Australia had to partially refund the federal government after a report prepared with generative AI was found to contain hallucinated references and other factual errors, a made up quote from a federal court judgment, and other factual inaccuracies which were found in a $440,000 report.
+
+19) Club joined. more details on document.
+
+20) there was a discussion regarding the events. more details on document.
+
+23) home system updated, please check document for more info.
+
+24) There was a few lesson given to family. please read document for more info.
+
+25) . I have chosen the Student Guild feedback webpage for privacy change. On the webpage itself, students must enter their name, email address and optional to provide feedback. I believe there should be less identification information because students may may want to give honest feedback but fear of collection and profiling of personal data. So, the main idea is allowing students to submit feedback about Guild services, events, facilities, representation, or student support without exposing their identity unnecessarily. To apply privacy preserving technique, data collection can be minimised where an anonymisation can be implemented.
+Table and code are updated in the document, thank you.
+
+29) I have looked online and found an image from stock adobe website of a cat driving. It is very clear that it is AI, but we will an online tool to verify our suspicion. Using wasitai.com, It was identified that the image is indeed AI created, then using ChatGPT, it has found the same result.
+
+30) “Introduction to Personal Security” course, as it focuses on knowledge that is relevant for everyday online safety.
+Throughout the module, I learned about several key areas of cybersecurity safety. This included an introduction to common social engineering techniques, such as phishing and other methods attackers use to manipulate individuals into revealing sensitive information. 
+The course also covered different types of malwares, explaining how malicious software can infect systems and compromise data. Some examples are virus that attaches itself to other files in the system. Trojan horse that blends in as a legitimate software to enter systems. Ransomware, which encrypts files and systems to prevents access and some case extortion of money.
+It also explored the different levels of threat associated with cyberattacks, helping to understand how attacks can vary in severity and impact. 
+It also provided guidance on personal security practices, such as using strong passwords, enabling multi-factor authentication, and staying cautious when interacting with unknown links or messages.
+There were topics included device hardening as well, which involves securing a device by reducing vulnerabilities and limiting potential entry points for attackers alone with basic Linux and Windows system hardening techniques.
+Overall, the module provided a better understanding in personal cybersecurity and helped me understand more about online cyber security.
+
