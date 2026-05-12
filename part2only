@@ -2,7 +2,38 @@ This is for part two the of port.
 
 Tasks 
 
-B1. Discover 5 unique weak/vulnerable security implementations.
+B1. Discover 5 unique weak/vulnerable security implementations. This are 5 I found looking up online.
+https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html
+
+CWE-89: SQL Injection
+Weak security: user input is directly added into SQL queries.
+Example: login form puts username/password straight into the SQL command.
+Risk: attacker can bypass login, read data, edit data, delete data, or steal information.
+Stronger security: use prepared statements or parameterised queries.
+
+CWE-79: Cross-Site Scripting
+Weak security: user input is displayed on a webpage without proper encoding.
+Example: a comment box allows JavaScript to be posted and shown to others.
+Risk: attacker can steal sessions, create fake login forms, change webpages, or redirect users.
+Stronger security: validate input, encode output, use secure frameworks, and apply Content Security Policy.
+
+CWE-862: Missing Authorization
+Weak security: the system does not check if a user is allowed to access something.
+Example: a normal user accesses an admin page by changing the URL.
+Risk: users may view private data, modify records, or perform admin actions.
+Stronger security: use server-side authorization checks and role-based access control.
+
+CWE-798: Hard-coded Credentials
+Weak security: passwords, API keys, or tokens are written directly in code.
+Example: a database password is stored inside the application source code.
+Risk: anyone with code access can steal and misuse the credentials.
+Stronger security: use environment variables or a secrets manager, and rotate exposed credentials.
+
+CWE-434: Unrestricted File Upload
+Weak security: users can upload files without proper checks.
+Example: an attacker uploads a script file disguised as an image.
+Risk: malware upload, remote code execution, or server compromise.
+Stronger security: restrict file types, verify content, rename files, store uploads safely, scan for malware, and block execution.
 
 B2. Discover 5 unique strong security implementations.
 
